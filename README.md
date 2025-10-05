@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Abu Solayman Sefat
 ### 💻 Frontend Web Developer | MERN Stack Enthusiast
 
@@ -12,9 +11,18 @@ I believe in writing clean, scalable code and continuously learning new technolo
 ---
 
 ### 🚀 What I’m Doing Now:
-- 🔭 Working on a Tourism Booking Website
-- 🌱 Exploring Next.js and Tailwind CSS
-- 📚 Sharpening my skills in MongoDB and Express.js
+- 🔭 Working on a Tourism Booking Website  
+- 🌱 Exploring Next.js and Tailwind CSS  
+- 📚 Sharpening my skills in MongoDB and Express.js  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusolaymansefat&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusolaymansefat&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
@@ -37,7 +45,26 @@ I believe in writing clean, scalable code and continuously learning new technolo
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-solayman-sefat)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbuSolaymanSefat)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abu-solayman-sefat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sefat01625@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-tau-jet-53.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/abusolaymun.sefat/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code is like humor. When you have to explain it, it’s bad." – Cory House
+</p>
+
