@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Abu Solayman Sefat
-### 💻 Frontend Web Developer | MERN Stack Enthusiast
+###  | <p>
+  🌱 Junior Web Developer | 🚀 MERN Stack Developer | 💻 Frontend Web Developer
+</p>
+
 
 ---
 
