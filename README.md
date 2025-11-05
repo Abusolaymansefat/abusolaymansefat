@@ -2,6 +2,11 @@
 <p>
   🌱 Junior Web Developer | 🚀 MERN Stack Developer | 💻 Frontend Web Developer
 </p>
+<p align="center">
+  📍 Laxmirpur, Bangladesh &nbsp;&nbsp;•&nbsp;&nbsp;  
+  ✉️ <a href="mailto:sefat01625@gmail.com">sefat01625@gmail.com</a> &nbsp;&nbsp;•&nbsp;&nbsp;  
+  📞 +8801625192069
+</p>
 
 
 ---
