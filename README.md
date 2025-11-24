@@ -13,6 +13,25 @@
 
 ---
 
+## :mailbox: Reach Me Out
+
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abu-solayman-sefat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="90" width="100"/>
+  </a>
+  <a href="mailto:sefat01625@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" height="90" width="100" />
+  </a>
+  <a href="https://portfolio-tau-jet-53.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="90" width="100" />
+  </a>
+  <a href="https://www.facebook.com/abusolaymun.sefat/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" height="90" width="100" />
+  </a>
+</p>
+
 ### 🙋‍♂️ About Me
 I am a passionate frontend developer who loves creating responsive and user-friendly web applications.  
 Currently exploring full-stack development using the MERN stack.  
@@ -20,10 +39,18 @@ I believe in writing clean, scalable code and continuously learning new technolo
 
 ---
 
-### 🚀 What I’m Doing Now:
-- 🔭 Working on a Tourism Booking Website  
-- 🌱 Exploring Next.js and Tailwind CSS  
-- 📚 Sharpening my skills in MongoDB and Express.js  
+## :eyes: Current Overview
+
+<img align="right" alt="Coding" width="300" src="https://github.com/shakiburcmt/shakiburcmt/blob/main/images/abc.gif">
+
+- 🌱 I’m currently learning React.js, Next.js
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about JavaScript, React, Express, Firebase, MongoDB, Node.js
+- 📫 How to reach me: sefat01625@gmail.com 
+- ⚡ Fun fact: I believe in hard work with patience. Love to learn
+
+
+
 
 ---
 
@@ -38,39 +65,11 @@ I believe in writing clean, scalable code and continuously learning new technolo
 
 ### 🛠️ Skills & Tools
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-**Tools & Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,netlify,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb,git,github,figma,vscode,netlify,vercel" />
 </p>
 
 ---
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/abu-solayman-sefat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sefat01625@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-tau-jet-53.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/abusolaymun.sefat/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
 
 ---
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
