@@ -50,16 +50,9 @@ I believe in writing clean, scalable code and continuously learning new technolo
 - ⚡ Fun fact: I believe in hard work with patience. Love to learn
 
 
-
-
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abusolaymansefat&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusolaymansefat&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+##
 
 ---
 
