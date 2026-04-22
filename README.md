@@ -17,20 +17,23 @@
 
 <br />
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/abu-solayman-sefat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="90" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:sefat01625@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" height="90" width="100" />
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://portfolio-tau-jet-53.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="90" width="100" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="https://www.facebook.com/abusolaymun.sefat/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" height="90" width="100" />
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ### 🙋‍♂️ About Me
 I am a passionate frontend developer who loves creating responsive and user-friendly web applications.  
